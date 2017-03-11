@@ -1,5 +1,8 @@
 _repo: Poor-and-Proud-Or-The-Fortunes-of-Katy-Redburn-A-Story-for-Young-Folks_484
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Optic, Oliver
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/484#Poor-and-Proud-Or-The-Fortunes-of-Katy-Redburn-A-Story-for-Young-Folks
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
