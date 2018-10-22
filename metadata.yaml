@@ -1,5 +1,5 @@
 _repo: Poor-and-Proud-Or-The-Fortunes-of-Katy-Redburn-A-Story-for-Young-Folks_484
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Conduct of life -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Poor -- Juvenile fiction'
+- GITenberg
 title: 'Poor and Proud; Or, The Fortunes of Katy Redburn: A Story for Young Folks'
 url: http://www.gutenberg.org/ebooks/484
